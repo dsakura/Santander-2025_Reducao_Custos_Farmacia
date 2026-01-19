@@ -2,9 +2,9 @@
 
 # RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 
-Data: 19012026
-Empresa: Abstergo Industries 
-Responsável: Daniel M Nachmanowicz
+**Data:** 190-01-2026
+**Empresa:** Abstergo Industries 
+**Responsável:** Daniel M Nachmanowicz
 
 ## Introdução
 Este relatório apresenta o processo de implementação de ferramentas na empresa Abstergo Industries, realizado por Daniel Nachmanowicz. O objetivo do projeto foi elencar 3 serviços AWS, com a finalidade de realizar diminuição de custos imediatos.
